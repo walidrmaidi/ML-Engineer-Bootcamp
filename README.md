@@ -40,7 +40,7 @@ I'm learning ML the hands-on way — by building real projects, documenting the 
 
 ## ✍️ Learning in Public
 I’m documenting this entire journey on:
-- **Medium:** [YourProfile.medium.com](https://medium.com/@rmaidi.walid)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/rmaidiwalid/)
+- **Medium:** [@rmaidi.walid](https://medium.com/@rmaidi.walid)
+- **LinkedIn:** [RMAIDI Walid](https://www.linkedin.com/in/rmaidiwalid/)
 
 Follow my progress and feel free to connect or collaborate!
